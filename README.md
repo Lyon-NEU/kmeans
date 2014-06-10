@@ -1,4 +1,4 @@
 kmeans
 ======
 
-A simple implementaion of  K-Menas
+A simple implementaion of  K-Means
